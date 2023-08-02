@@ -1,4 +1,4 @@
-function my function(){
+function myFunction(){
 
 alert("sera que vai ?");
 }
